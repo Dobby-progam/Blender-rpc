@@ -17,7 +17,7 @@ bl_info = {
 
 
 # Blender Bot ID
-rpcConn = rpc.Presence("674448359850901546")
+rpcConn = rpc.Presence("976205185418416138")
 # Name of Blender icon that has been uploaded to the discord bot
 iconBlender = 'blender'
 # Get the temp directory of the system based on Blender's temp dir
